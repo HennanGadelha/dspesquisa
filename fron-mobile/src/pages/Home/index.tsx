@@ -12,7 +12,7 @@ const Home = () => {
 
   const handleOnPress = () => {
 
-    navitagtion.navigate('CreateRecord')
+    navitagtion.navigate('CreateRecord');
 
   }
 
